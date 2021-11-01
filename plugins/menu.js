@@ -44,8 +44,20 @@ const defaultMenu = {
 │
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
-│ Github:
-│ %github
+│ github :
+│ github.com/naufal132
+│
+│gc hengcker :
+│bit.ly/WibuTyz
+│
+│
+│gc naufal×ridho(bot wa) :
+│bit.ly/naufal×ridho
+│
+│yt Naufal :
+│bit.ly/YtNaufal
+│
+│terimakasih ya semuanya udh mau subscribe
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
