@@ -174,12 +174,74 @@ conn.logger.level = 'debug'
 
 ---------
 
-<a href="https://api.xteam.xyz"><img src="https://i.ibb.co/7j0vtwz/xlogo.png" width="100" height="100"></a> | [![Nurutomo](https://github.com/Nurutomo.png?size=100)](https://github.com/Nurutomo) | [![Ariffb](https://github.com/ariffb25.png?size=100)](https://github.com/ariffb25) | [![Ftwrr](https://github.com/Ftwrr.png?size=100)](https://github.com/Ftwrr) 
-----|----|----|----
-[XTEAM](https://api.xteam.xyz/) | [Nurutomo](https://github.com/Nurutomo) | [Ariffb](https://github.com/ariffb25) | [Ftwrr](https://github.com/Ftwrr)
-Powered by XTEAM | Author / Creator | Most Active Contributor | 2nd Most Active Contributor
+## `ON 24JAM?`
+`Tapi harus login dulu`
+
+[`klik`](https://replit.com)
+
+[`klik`](https://heroku.com)
 
 
-NOTE: This project will not maintained after `27 June 2021`, that means no update. Feel free to anyone to continue this project :)
+## `ADD BUILDPACK`
 
-Best Regards. wabot-aq
+```
+> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+
+## `CHANGE SESSION`
+
+[`Click Here`](https://github.com/naufal132/Alphabot7/edit/master/session.json#L1)
+
+## `SETTING`
+
+- Owner number [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L4)
+- Owner name [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L13)
+- Botname [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L14)
+
+## `Jasa Logo`
+
+[`click`](https://6285157160906)
+----------
+
+<p align="center">
+  <a href="https://wa.me/13193433799"><img src="https://c.top4top.io/s_2131e2mop0.jpg" />
+</p>
+
+## ```HOW TO DEPLOY```
+
+[`Click Here For Tutorial`](https://youtu.be/_CP2_1Yqauo)<br>
+
+----------
+
+<p align="center">
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+</p>
+    
+## `Naufal Tutor`
+
+[`click`](https://youtube.com/channel/UC1fmmnFo25NO3jzlca-A-jQ)
+----------
+
+<p align="center">
+  <a href="https://youtube.com/channel/UC1fmmnFo25NO3jzlca-A-jQ"><img src="https://b.top4top.io/s_21315ayx81.jpg" />
+</p>
+ 
+## `AtakBotz`
+
+[`click`](https://youtube.com/channel/UCT76Agxm4N_MbefBoywjDRA)
+----------
+
+<p align="center">
+  <a href="https://youtube.com/channel/UCT76Agxm4N_MbefBoywjDRA"><img src="https://a.top4top.io/s_2131888pb0.jpg" />
+</p>
+
+## ```wa kami```
+
+- [`No bot`](wa.me/13193433799)
+- [`No owner Naufal`](wa.me/6282266467066)
+
+
+## ```GC BOT```
+- [`GC botnaufal×atakbot`](bit.ly/naufal×ridho)
+- [`GC HENGCKER WIBU Tyz`](bit.ly/WibuTyz)
+
