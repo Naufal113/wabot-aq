@@ -194,8 +194,8 @@ conn.logger.level = 'debug'
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L4)
-- Owner name [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L13)
+- Owner number [Here](https://github.com/naufal132/wabot-aq/edit/master/plugins/creator.js)
+- Owner name [Here](https://github.com/naufal132/wabot-aq/edit/master/plugins/creator.js)
 - Botname [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L14)
 
 ## `Jasa Logo`
