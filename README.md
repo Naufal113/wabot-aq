@@ -190,7 +190,7 @@ conn.logger.level = 'debug'
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/naufal132/Alphabot7/edit/master/session.json#L1)
+[`Click Here`](https://github.com/naufal132/wabot-aq/blob/master/session.json)
 
 ## `SETTING`
 
